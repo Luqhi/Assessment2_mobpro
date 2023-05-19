@@ -24,7 +24,7 @@
     <string name="hapus">Hapus</string>
     <string name="batal">Batal</string>
     <string name="belum_ada_data">Belum Terdapat Data</string>
-    <string name="copyright">Concert Tickets merupakan sebuah aplikasi Android untuk menghitung total harga tiket konser yang akan dibeli, sehingga orang dapat tau berapa total harga dari jumlah tiket yang dibeli.\n\nAplikasi ini dibuat untuk Assessment 2 kelas Mobpro 1. Temukan kodenya di https://github.com/Luqmanhakim13/Assessment2_Mobpro\n\nCopyright © 2023 Luqman Hakim. \nAll rights reserved.</string>
+    <string name="copyright">Concert Tickets merupakan sebuah aplikasi Android untuk menghitung total harga tiket konser yang akan dibeli, sehingga orang dapat tau berapa total harga dari jumlah tiket yang dibeli.\n\nAplikasi ini dibuat untuk Assessment 2 kelas Mobpro 1. Temukan kodenya di https://github.com/Luqmanhakim13/Assessment2_mobpro\n\nCopyright © 2023 Luqman Hakim. \nAll rights reserved.</string>
     <string name="tanggal">13 November 2023</string>
     <string name="total_item">Total: Rp. 10000000 - GOOD</string>
     <string name="jumlah_item">Jumlah: 2 - Cat 1</string>
